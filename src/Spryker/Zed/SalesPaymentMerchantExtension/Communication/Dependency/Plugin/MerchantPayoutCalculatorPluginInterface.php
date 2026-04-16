@@ -19,8 +19,7 @@ interface MerchantPayoutCalculatorPluginInterface
 {
     /**
      * Specification:
-     * - Calculates the payout amount for the order item.
-     * - Calculates the reverse payout amount for the order item.
+     * - Calculates the payout or reverse payout amount for the order item.
      *
      * @api
      *

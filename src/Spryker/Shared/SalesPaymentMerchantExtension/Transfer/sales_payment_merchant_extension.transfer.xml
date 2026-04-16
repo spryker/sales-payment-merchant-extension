@@ -7,4 +7,7 @@
     <transfer name="Order">
     </transfer>
 
+    <transfer name="PaymentTransmissionResponseCollection">
+    </transfer>
+
 </transfers>
